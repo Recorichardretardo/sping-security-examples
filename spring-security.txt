@@ -1,0 +1,7 @@
+https://github.com/springdoc/springdoc-openapi/issues/1347
+
+https://www.baeldung.com/spring-boot-lazy-initialization
+https://howtodoinjava.com/spring5/core/spring-bean-eager-vs-lazy-init/
+https://medium.com/@haytambenayed/basic-authentication-and-form-based-authentication-using-spring-security-ed79951dbb2e
+https://stackoverflow.com/questions/39428779/java-spring-bcryptpasswordencoder-securerandom-random-constructor-parameter
+https://stackabuse.com/password-encoding-with-spring-security/
